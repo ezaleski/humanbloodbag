@@ -1,0 +1,19 @@
+{
+  "id": "round1-game1",
+  "scheduled": "2019-03-21T16:40:00+00:00",
+  "status": "inprogress",
+  "clock": "09:36",
+  "half": 2,
+  "home": {
+    "name": "Tigers",
+    "alias": "LSU",
+    "market": "LSU",
+    "points": 46
+  },
+  "away": {
+    "name": "Bulldogs",
+    "alias": "YALE",
+    "market": "Yale",
+    "points": 52
+  }
+}
